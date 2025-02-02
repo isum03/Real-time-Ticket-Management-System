@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+.box {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  border-color: white;
+  text-align: center;
+  
+}
+
+button {
+  margin-right: 10px;
+  margin-top: 20px;
+  padding: 5px 10px;
+  cursor: pointer;
+
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+  color: white;
+}
+label{
+  color: white;
+  
+}
+p{
+  color: white;
+}
+.controlPanelStartButton{
+  background-color: green;
+}
+.controlPanelStopButton{
+  background-color: red;
+}
