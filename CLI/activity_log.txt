@@ -1,0 +1,189 @@
+Customer C001 waiting
+Vendor V001 added 10 tickets. Current pool size: 10
+Customer C001 booked ticket: Ticket{ticketId: 1 eventId: Event101}. Current pool size: 9
+Customer C001 book ticket: Ticket{ticketId: 1 eventId: Event101} - Current pool size: 9
+Vendor V001 added tickets: [Ticket{ticketId: 1 eventId: Event101}, Ticket{ticketId: 2 eventId: Event101}, Ticket{ticketId: 3 eventId: Event101}, Ticket{ticketId: 4 eventId: Event101}, Ticket{ticketId: 5 eventId: Event101}, Ticket{ticketId: 6 eventId: Event101}, Ticket{ticketId: 7 eventId: Event101}, Ticket{ticketId: 8 eventId: Event101}, Ticket{ticketId: 9 eventId: Event101}, Ticket{ticketId: 10 eventId: Event101}] - Current pool size: 9
+Customer C001 booked ticket: Ticket{ticketId: 2 eventId: Event101}. Current pool size: 8
+Customer C001 book ticket: Ticket{ticketId: 2 eventId: Event101} - Current pool size: 8
+Customer C001 booked ticket: Ticket{ticketId: 3 eventId: Event101}. Current pool size: 7
+Customer C001 book ticket: Ticket{ticketId: 3 eventId: Event101} - Current pool size: 7
+Customer C001 booked ticket: Ticket{ticketId: 4 eventId: Event101}. Current pool size: 6
+Customer C001 book ticket: Ticket{ticketId: 4 eventId: Event101} - Current pool size: 6
+Customer C001 booked ticket: Ticket{ticketId: 5 eventId: Event101}. Current pool size: 5
+Customer C001 book ticket: Ticket{ticketId: 5 eventId: Event101} - Current pool size: 5
+Customer C001 booked ticket: Ticket{ticketId: 6 eventId: Event101}. Current pool size: 4
+Customer C001 book ticket: Ticket{ticketId: 6 eventId: Event101} - Current pool size: 4
+Customer C001 booked ticket: Ticket{ticketId: 7 eventId: Event101}. Current pool size: 3
+Customer C001 book ticket: Ticket{ticketId: 7 eventId: Event101} - Current pool size: 3
+Customer C001 booked ticket: Ticket{ticketId: 8 eventId: Event101}. Current pool size: 2
+Customer C001 book ticket: Ticket{ticketId: 8 eventId: Event101} - Current pool size: 2
+Customer C001 booked ticket: Ticket{ticketId: 9 eventId: Event101}. Current pool size: 1
+Customer C001 book ticket: Ticket{ticketId: 9 eventId: Event101} - Current pool size: 1
+Customer C001 booked ticket: Ticket{ticketId: 10 eventId: Event101}. Current pool size: 0
+Customer C001 book ticket: Ticket{ticketId: 10 eventId: Event101} - Current pool size: 0
+Vendor V001 added 10 tickets. Current pool size: 10
+Vendor V001 added tickets: [Ticket{ticketId: 11 eventId: Event101}, Ticket{ticketId: 12 eventId: Event101}, Ticket{ticketId: 13 eventId: Event101}, Ticket{ticketId: 14 eventId: Event101}, Ticket{ticketId: 15 eventId: Event101}, Ticket{ticketId: 16 eventId: Event101}, Ticket{ticketId: 17 eventId: Event101}, Ticket{ticketId: 18 eventId: Event101}, Ticket{ticketId: 19 eventId: Event101}, Ticket{ticketId: 20 eventId: Event101}] - Current pool size: 10
+Customer C001 booked ticket: Ticket{ticketId: 11 eventId: Event101}. Current pool size: 9
+Customer C001 book ticket: Ticket{ticketId: 11 eventId: Event101} - Current pool size: 9
+Customer C001 booked ticket: Ticket{ticketId: 12 eventId: Event101}. Current pool size: 8
+Customer C001 book ticket: Ticket{ticketId: 12 eventId: Event101} - Current pool size: 8
+Customer C001 booked ticket: Ticket{ticketId: 13 eventId: Event101}. Current pool size: 7
+Customer C001 book ticket: Ticket{ticketId: 13 eventId: Event101} - Current pool size: 7
+Customer C001 booked ticket: Ticket{ticketId: 14 eventId: Event101}. Current pool size: 6
+Customer C001 book ticket: Ticket{ticketId: 14 eventId: Event101} - Current pool size: 6
+Customer C001 booked ticket: Ticket{ticketId: 15 eventId: Event101}. Current pool size: 5
+Customer C001 book ticket: Ticket{ticketId: 15 eventId: Event101} - Current pool size: 5
+Customer C001 booked ticket: Ticket{ticketId: 16 eventId: Event101}. Current pool size: 4
+Customer C001 book ticket: Ticket{ticketId: 16 eventId: Event101} - Current pool size: 4
+Customer C001 booked ticket: Ticket{ticketId: 17 eventId: Event101}. Current pool size: 3
+Customer C001 book ticket: Ticket{ticketId: 17 eventId: Event101} - Current pool size: 3
+Customer C001 booked ticket: Ticket{ticketId: 18 eventId: Event101}. Current pool size: 2
+Customer C001 book ticket: Ticket{ticketId: 18 eventId: Event101} - Current pool size: 2
+Customer C001 booked ticket: Ticket{ticketId: 19 eventId: Event101}. Current pool size: 1
+Vendor V001 added 10 tickets. Current pool size: 11
+Vendor V001 added tickets: [Ticket{ticketId: 21 eventId: Event101}, Ticket{ticketId: 22 eventId: Event101}, Ticket{ticketId: 23 eventId: Event101}, Ticket{ticketId: 24 eventId: Event101}, Ticket{ticketId: 25 eventId: Event101}, Ticket{ticketId: 26 eventId: Event101}, Ticket{ticketId: 27 eventId: Event101}, Ticket{ticketId: 28 eventId: Event101}, Ticket{ticketId: 29 eventId: Event101}, Ticket{ticketId: 30 eventId: Event101}] - Current pool size: 11
+Customer C001 book ticket: Ticket{ticketId: 19 eventId: Event101} - Current pool size: 11
+Customer C001 booked ticket: Ticket{ticketId: 20 eventId: Event101}. Current pool size: 10
+Customer C001 book ticket: Ticket{ticketId: 20 eventId: Event101} - Current pool size: 10
+Customer C001 booked ticket: Ticket{ticketId: 21 eventId: Event101}. Current pool size: 9
+Customer C001 book ticket: Ticket{ticketId: 21 eventId: Event101} - Current pool size: 9
+Customer C001 booked ticket: Ticket{ticketId: 22 eventId: Event101}. Current pool size: 8
+Customer C001 book ticket: Ticket{ticketId: 22 eventId: Event101} - Current pool size: 8
+Customer C001 booked ticket: Ticket{ticketId: 23 eventId: Event101}. Current pool size: 7
+Customer C001 book ticket: Ticket{ticketId: 23 eventId: Event101} - Current pool size: 7
+Customer C001 booked ticket: Ticket{ticketId: 24 eventId: Event101}. Current pool size: 6
+Customer C001 book ticket: Ticket{ticketId: 24 eventId: Event101} - Current pool size: 6
+Customer C001 booked ticket: Ticket{ticketId: 25 eventId: Event101}. Current pool size: 5
+Customer C001 book ticket: Ticket{ticketId: 25 eventId: Event101} - Current pool size: 5
+Customer C001 booked ticket: Ticket{ticketId: 26 eventId: Event101}. Current pool size: 4
+Customer C001 book ticket: Ticket{ticketId: 26 eventId: Event101} - Current pool size: 4
+Customer C001 booked ticket: Ticket{ticketId: 27 eventId: Event101}. Current pool size: 3
+Customer C001 book ticket: Ticket{ticketId: 27 eventId: Event101} - Current pool size: 3
+Customer C001 booked ticket: Ticket{ticketId: 28 eventId: Event101}. Current pool size: 2
+Customer C001 book ticket: Ticket{ticketId: 28 eventId: Event101} - Current pool size: 2
+Vendor V001 added 10 tickets. Current pool size: 12
+Vendor V001 added tickets: [Ticket{ticketId: 31 eventId: Event101}, Ticket{ticketId: 32 eventId: Event101}, Ticket{ticketId: 33 eventId: Event101}, Ticket{ticketId: 34 eventId: Event101}, Ticket{ticketId: 35 eventId: Event101}, Ticket{ticketId: 36 eventId: Event101}, Ticket{ticketId: 37 eventId: Event101}, Ticket{ticketId: 38 eventId: Event101}, Ticket{ticketId: 39 eventId: Event101}, Ticket{ticketId: 40 eventId: Event101}] - Current pool size: 12
+Customer C001 booked ticket: Ticket{ticketId: 29 eventId: Event101}. Current pool size: 11
+Customer C001 book ticket: Ticket{ticketId: 29 eventId: Event101} - Current pool size: 11
+Customer C001 booked ticket: Ticket{ticketId: 30 eventId: Event101}. Current pool size: 10
+Customer C001 book ticket: Ticket{ticketId: 30 eventId: Event101} - Current pool size: 10
+Customer C001 booked ticket: Ticket{ticketId: 31 eventId: Event101}. Current pool size: 9
+Customer C001 book ticket: Ticket{ticketId: 31 eventId: Event101} - Current pool size: 9
+Customer C001 booked ticket: Ticket{ticketId: 32 eventId: Event101}. Current pool size: 8
+Customer C001 book ticket: Ticket{ticketId: 32 eventId: Event101} - Current pool size: 8
+Customer C001 booked ticket: Ticket{ticketId: 33 eventId: Event101}. Current pool size: 7
+Customer C001 book ticket: Ticket{ticketId: 33 eventId: Event101} - Current pool size: 7
+Customer C001 booked ticket: Ticket{ticketId: 34 eventId: Event101}. Current pool size: 6
+Customer C001 book ticket: Ticket{ticketId: 34 eventId: Event101} - Current pool size: 6
+Customer C001 booked ticket: Ticket{ticketId: 35 eventId: Event101}. Current pool size: 5
+Customer C001 book ticket: Ticket{ticketId: 35 eventId: Event101} - Current pool size: 5
+Customer C001 booked ticket: Ticket{ticketId: 36 eventId: Event101}. Current pool size: 4
+Customer C001 book ticket: Ticket{ticketId: 36 eventId: Event101} - Current pool size: 4
+Customer C001 booked ticket: Ticket{ticketId: 37 eventId: Event101}. Current pool size: 3
+Customer C001 book ticket: Ticket{ticketId: 37 eventId: Event101} - Current pool size: 3
+Vendor V001 added 10 tickets. Current pool size: 13
+Vendor V001 added tickets: [Ticket{ticketId: 41 eventId: Event101}, Ticket{ticketId: 42 eventId: Event101}, Ticket{ticketId: 43 eventId: Event101}, Ticket{ticketId: 44 eventId: Event101}, Ticket{ticketId: 45 eventId: Event101}, Ticket{ticketId: 46 eventId: Event101}, Ticket{ticketId: 47 eventId: Event101}, Ticket{ticketId: 48 eventId: Event101}, Ticket{ticketId: 49 eventId: Event101}, Ticket{ticketId: 50 eventId: Event101}] - Current pool size: 13
+Customer C001 booked ticket: Ticket{ticketId: 38 eventId: Event101}. Current pool size: 12
+Customer C001 book ticket: Ticket{ticketId: 38 eventId: Event101} - Current pool size: 12
+Customer C001 booked ticket: Ticket{ticketId: 39 eventId: Event101}. Current pool size: 11
+Customer C001 book ticket: Ticket{ticketId: 39 eventId: Event101} - Current pool size: 11
+Customer C001 booked ticket: Ticket{ticketId: 40 eventId: Event101}. Current pool size: 10
+Customer C001 book ticket: Ticket{ticketId: 40 eventId: Event101} - Current pool size: 10
+Customer C001 booked ticket: Ticket{ticketId: 41 eventId: Event101}. Current pool size: 9
+Customer C001 book ticket: Ticket{ticketId: 41 eventId: Event101} - Current pool size: 9
+Customer C001 booked ticket: Ticket{ticketId: 42 eventId: Event101}. Current pool size: 8
+Customer C001 book ticket: Ticket{ticketId: 42 eventId: Event101} - Current pool size: 8
+Customer C001 booked ticket: Ticket{ticketId: 43 eventId: Event101}. Current pool size: 7
+Customer C001 book ticket: Ticket{ticketId: 43 eventId: Event101} - Current pool size: 7
+Customer C001 booked ticket: Ticket{ticketId: 44 eventId: Event101}. Current pool size: 6
+Customer C001 book ticket: Ticket{ticketId: 44 eventId: Event101} - Current pool size: 6
+Customer C001 waiting
+Vendor V001 added 10 tickets. Current pool size: 10
+Customer C001 booked ticket: Ticket{ticketId: 1 eventId: Event101}. Current pool size: 9
+Vendor V001 added tickets: [Ticket{ticketId: 1 eventId: Event101}, Ticket{ticketId: 2 eventId: Event101}, Ticket{ticketId: 3 eventId: Event101}, Ticket{ticketId: 4 eventId: Event101}, Ticket{ticketId: 5 eventId: Event101}, Ticket{ticketId: 6 eventId: Event101}, Ticket{ticketId: 7 eventId: Event101}, Ticket{ticketId: 8 eventId: Event101}, Ticket{ticketId: 9 eventId: Event101}, Ticket{ticketId: 10 eventId: Event101}] - Current pool size: 9
+Customer C001 book ticket: Ticket{ticketId: 1 eventId: Event101} - Current pool size: 9
+Vendor V001 added 10 tickets. Current pool size: 19
+Vendor V001 added tickets: [Ticket{ticketId: 11 eventId: Event101}, Ticket{ticketId: 12 eventId: Event101}, Ticket{ticketId: 13 eventId: Event101}, Ticket{ticketId: 14 eventId: Event101}, Ticket{ticketId: 15 eventId: Event101}, Ticket{ticketId: 16 eventId: Event101}, Ticket{ticketId: 17 eventId: Event101}, Ticket{ticketId: 18 eventId: Event101}, Ticket{ticketId: 19 eventId: Event101}, Ticket{ticketId: 20 eventId: Event101}] - Current pool size: 19
+Vendor V001 added 10 tickets. Current pool size: 29
+Vendor V001 added tickets: [Ticket{ticketId: 21 eventId: Event101}, Ticket{ticketId: 22 eventId: Event101}, Ticket{ticketId: 23 eventId: Event101}, Ticket{ticketId: 24 eventId: Event101}, Ticket{ticketId: 25 eventId: Event101}, Ticket{ticketId: 26 eventId: Event101}, Ticket{ticketId: 27 eventId: Event101}, Ticket{ticketId: 28 eventId: Event101}, Ticket{ticketId: 29 eventId: Event101}, Ticket{ticketId: 30 eventId: Event101}] - Current pool size: 29
+Vendor V001 added 10 tickets. Current pool size: 39
+Vendor V001 added tickets: [Ticket{ticketId: 31 eventId: Event101}, Ticket{ticketId: 32 eventId: Event101}, Ticket{ticketId: 33 eventId: Event101}, Ticket{ticketId: 34 eventId: Event101}, Ticket{ticketId: 35 eventId: Event101}, Ticket{ticketId: 36 eventId: Event101}, Ticket{ticketId: 37 eventId: Event101}, Ticket{ticketId: 38 eventId: Event101}, Ticket{ticketId: 39 eventId: Event101}, Ticket{ticketId: 40 eventId: Event101}] - Current pool size: 39
+Vendor V001 added 10 tickets. Current pool size: 49
+Vendor V001 added tickets: [Ticket{ticketId: 41 eventId: Event101}, Ticket{ticketId: 42 eventId: Event101}, Ticket{ticketId: 43 eventId: Event101}, Ticket{ticketId: 44 eventId: Event101}, Ticket{ticketId: 45 eventId: Event101}, Ticket{ticketId: 46 eventId: Event101}, Ticket{ticketId: 47 eventId: Event101}, Ticket{ticketId: 48 eventId: Event101}, Ticket{ticketId: 49 eventId: Event101}, Ticket{ticketId: 50 eventId: Event101}] - Current pool size: 49
+Vendor V001 added 10 tickets. Current pool size: 59
+Vendor V001 added tickets: [Ticket{ticketId: 51 eventId: Event101}, Ticket{ticketId: 52 eventId: Event101}, Ticket{ticketId: 53 eventId: Event101}, Ticket{ticketId: 54 eventId: Event101}, Ticket{ticketId: 55 eventId: Event101}, Ticket{ticketId: 56 eventId: Event101}, Ticket{ticketId: 57 eventId: Event101}, Ticket{ticketId: 58 eventId: Event101}, Ticket{ticketId: 59 eventId: Event101}, Ticket{ticketId: 60 eventId: Event101}] - Current pool size: 59
+Customer C001 waiting
+Vendor V001 added 10 tickets. Current pool size: 10
+Customer C001 booked ticket: Ticket{ticketId: 1 eventId: Event101}. Current pool size: 9
+Customer C001 book ticket: Ticket{ticketId: 1 eventId: Event101} - Current pool size: 9
+Vendor V001 added tickets: [Ticket{ticketId: 1 eventId: Event101}, Ticket{ticketId: 2 eventId: Event101}, Ticket{ticketId: 3 eventId: Event101}, Ticket{ticketId: 4 eventId: Event101}, Ticket{ticketId: 5 eventId: Event101}, Ticket{ticketId: 6 eventId: Event101}, Ticket{ticketId: 7 eventId: Event101}, Ticket{ticketId: 8 eventId: Event101}, Ticket{ticketId: 9 eventId: Event101}, Ticket{ticketId: 10 eventId: Event101}] - Current pool size: 9
+Customer C001 booked ticket: Ticket{ticketId: 2 eventId: Event101}. Current pool size: 8
+Vendor V001 added 10 tickets. Current pool size: 18
+Vendor V001 added tickets: [Ticket{ticketId: 11 eventId: Event101}, Ticket{ticketId: 12 eventId: Event101}, Ticket{ticketId: 13 eventId: Event101}, Ticket{ticketId: 14 eventId: Event101}, Ticket{ticketId: 15 eventId: Event101}, Ticket{ticketId: 16 eventId: Event101}, Ticket{ticketId: 17 eventId: Event101}, Ticket{ticketId: 18 eventId: Event101}, Ticket{ticketId: 19 eventId: Event101}, Ticket{ticketId: 20 eventId: Event101}] - Current pool size: 18
+Customer C001 book ticket: Ticket{ticketId: 2 eventId: Event101} - Current pool size: 18
+Vendor V001 added 10 tickets. Current pool size: 28
+Customer C001 booked ticket: Ticket{ticketId: 3 eventId: Event101}. Current pool size: 27
+Vendor V001 added tickets: [Ticket{ticketId: 21 eventId: Event101}, Ticket{ticketId: 22 eventId: Event101}, Ticket{ticketId: 23 eventId: Event101}, Ticket{ticketId: 24 eventId: Event101}, Ticket{ticketId: 25 eventId: Event101}, Ticket{ticketId: 26 eventId: Event101}, Ticket{ticketId: 27 eventId: Event101}, Ticket{ticketId: 28 eventId: Event101}, Ticket{ticketId: 29 eventId: Event101}, Ticket{ticketId: 30 eventId: Event101}] - Current pool size: 27
+Customer C001 book ticket: Ticket{ticketId: 3 eventId: Event101} - Current pool size: 27
+Customer C001 booked ticket: Ticket{ticketId: 4 eventId: Event101}. Current pool size: 26
+Vendor V001 added 10 tickets. Current pool size: 36
+Customer C001 book ticket: Ticket{ticketId: 4 eventId: Event101} - Current pool size: 36
+Vendor V001 added tickets: [Ticket{ticketId: 31 eventId: Event101}, Ticket{ticketId: 32 eventId: Event101}, Ticket{ticketId: 33 eventId: Event101}, Ticket{ticketId: 34 eventId: Event101}, Ticket{ticketId: 35 eventId: Event101}, Ticket{ticketId: 36 eventId: Event101}, Ticket{ticketId: 37 eventId: Event101}, Ticket{ticketId: 38 eventId: Event101}, Ticket{ticketId: 39 eventId: Event101}, Ticket{ticketId: 40 eventId: Event101}] - Current pool size: 36
+Vendor V001 added 10 tickets. Current pool size: 46
+Customer C001 booked ticket: Ticket{ticketId: 5 eventId: Event101}. Current pool size: 45
+Customer C001 book ticket: Ticket{ticketId: 5 eventId: Event101} - Current pool size: 45
+Vendor V001 added tickets: [Ticket{ticketId: 41 eventId: Event101}, Ticket{ticketId: 42 eventId: Event101}, Ticket{ticketId: 43 eventId: Event101}, Ticket{ticketId: 44 eventId: Event101}, Ticket{ticketId: 45 eventId: Event101}, Ticket{ticketId: 46 eventId: Event101}, Ticket{ticketId: 47 eventId: Event101}, Ticket{ticketId: 48 eventId: Event101}, Ticket{ticketId: 49 eventId: Event101}, Ticket{ticketId: 50 eventId: Event101}] - Current pool size: 45
+Customer C001 booked ticket: Ticket{ticketId: 6 eventId: Event101}. Current pool size: 44
+Vendor V001 added 10 tickets. Current pool size: 54
+Customer C001 book ticket: Ticket{ticketId: 6 eventId: Event101} - Current pool size: 54
+Vendor V001 added tickets: [Ticket{ticketId: 51 eventId: Event101}, Ticket{ticketId: 52 eventId: Event101}, Ticket{ticketId: 53 eventId: Event101}, Ticket{ticketId: 54 eventId: Event101}, Ticket{ticketId: 55 eventId: Event101}, Ticket{ticketId: 56 eventId: Event101}, Ticket{ticketId: 57 eventId: Event101}, Ticket{ticketId: 58 eventId: Event101}, Ticket{ticketId: 59 eventId: Event101}, Ticket{ticketId: 60 eventId: Event101}] - Current pool size: 54
+Customer C001 booked ticket: Ticket{ticketId: 7 eventId: Event101}. Current pool size: 53
+Customer C001 book ticket: Ticket{ticketId: 7 eventId: Event101} - Current pool size: 53
+Vendor V001 added 10 tickets. Current pool size: 63
+Vendor V001 added tickets: [Ticket{ticketId: 61 eventId: Event101}, Ticket{ticketId: 62 eventId: Event101}, Ticket{ticketId: 63 eventId: Event101}, Ticket{ticketId: 64 eventId: Event101}, Ticket{ticketId: 65 eventId: Event101}, Ticket{ticketId: 66 eventId: Event101}, Ticket{ticketId: 67 eventId: Event101}, Ticket{ticketId: 68 eventId: Event101}, Ticket{ticketId: 69 eventId: Event101}, Ticket{ticketId: 70 eventId: Event101}] - Current pool size: 63
+Customer C001 booked ticket: Ticket{ticketId: 8 eventId: Event101}. Current pool size: 62
+Customer C001 book ticket: Ticket{ticketId: 8 eventId: Event101} - Current pool size: 62
+Vendor V001 added 10 tickets. Current pool size: 72
+Vendor V001 added tickets: [Ticket{ticketId: 71 eventId: Event101}, Ticket{ticketId: 72 eventId: Event101}, Ticket{ticketId: 73 eventId: Event101}, Ticket{ticketId: 74 eventId: Event101}, Ticket{ticketId: 75 eventId: Event101}, Ticket{ticketId: 76 eventId: Event101}, Ticket{ticketId: 77 eventId: Event101}, Ticket{ticketId: 78 eventId: Event101}, Ticket{ticketId: 79 eventId: Event101}, Ticket{ticketId: 80 eventId: Event101}] - Current pool size: 72
+Customer C001 booked ticket: Ticket{ticketId: 9 eventId: Event101}. Current pool size: 71
+Customer C001 book ticket: Ticket{ticketId: 9 eventId: Event101} - Current pool size: 71
+Vendor V001 added 10 tickets. Current pool size: 81
+Vendor V001 added tickets: [Ticket{ticketId: 81 eventId: Event101}, Ticket{ticketId: 82 eventId: Event101}, Ticket{ticketId: 83 eventId: Event101}, Ticket{ticketId: 84 eventId: Event101}, Ticket{ticketId: 85 eventId: Event101}, Ticket{ticketId: 86 eventId: Event101}, Ticket{ticketId: 87 eventId: Event101}, Ticket{ticketId: 88 eventId: Event101}, Ticket{ticketId: 89 eventId: Event101}, Ticket{ticketId: 90 eventId: Event101}] - Current pool size: 81
+Customer C001 booked ticket: Ticket{ticketId: 10 eventId: Event101}. Current pool size: 80
+Customer C001 book ticket: Ticket{ticketId: 10 eventId: Event101} - Current pool size: 80
+Vendor V001 added 10 tickets. Current pool size: 90
+Vendor V001 added tickets: [Ticket{ticketId: 91 eventId: Event101}, Ticket{ticketId: 92 eventId: Event101}, Ticket{ticketId: 93 eventId: Event101}, Ticket{ticketId: 94 eventId: Event101}, Ticket{ticketId: 95 eventId: Event101}, Ticket{ticketId: 96 eventId: Event101}, Ticket{ticketId: 97 eventId: Event101}, Ticket{ticketId: 98 eventId: Event101}, Ticket{ticketId: 99 eventId: Event101}, Ticket{ticketId: 100 eventId: Event101}] - Current pool size: 90
+Customer C001 booked ticket: Ticket{ticketId: 11 eventId: Event101}. Current pool size: 89
+Customer C001 book ticket: Ticket{ticketId: 11 eventId: Event101} - Current pool size: 89
+Vendor V001 added 10 tickets. Current pool size: 99
+Vendor V001 added tickets: [Ticket{ticketId: 101 eventId: Event101}, Ticket{ticketId: 102 eventId: Event101}, Ticket{ticketId: 103 eventId: Event101}, Ticket{ticketId: 104 eventId: Event101}, Ticket{ticketId: 105 eventId: Event101}, Ticket{ticketId: 106 eventId: Event101}, Ticket{ticketId: 107 eventId: Event101}, Ticket{ticketId: 108 eventId: Event101}, Ticket{ticketId: 109 eventId: Event101}, Ticket{ticketId: 110 eventId: Event101}] - Current pool size: 99
+Customer C001 booked ticket: Ticket{ticketId: 12 eventId: Event101}. Current pool size: 98
+Customer C001 book ticket: Ticket{ticketId: 12 eventId: Event101} - Current pool size: 98
+Vendor V001 waiting
+Customer C001 booked ticket: Ticket{ticketId: 13 eventId: Event101}. Current pool size: 97
+Vendor V001 waiting
+Customer C001 book ticket: Ticket{ticketId: 13 eventId: Event101} - Current pool size: 97
+Customer C001 booked ticket: Ticket{ticketId: 14 eventId: Event101}. Current pool size: 96
+Vendor V001 waiting
+Customer C001 book ticket: Ticket{ticketId: 14 eventId: Event101} - Current pool size: 96
+Customer C001 booked ticket: Ticket{ticketId: 15 eventId: Event101}. Current pool size: 95
+Vendor V001 waiting
+Customer C001 book ticket: Ticket{ticketId: 15 eventId: Event101} - Current pool size: 95
+Customer C001 booked ticket: Ticket{ticketId: 16 eventId: Event101}. Current pool size: 94
+Vendor V001 waiting
+Customer C001 book ticket: Ticket{ticketId: 16 eventId: Event101} - Current pool size: 94
+Customer C001 booked ticket: Ticket{ticketId: 17 eventId: Event101}. Current pool size: 93
+Vendor V001 waiting
+Customer C001 book ticket: Ticket{ticketId: 17 eventId: Event101} - Current pool size: 93
+Customer C001 booked ticket: Ticket{ticketId: 18 eventId: Event101}. Current pool size: 92
+Vendor V001 waiting
+Customer C001 book ticket: Ticket{ticketId: 18 eventId: Event101} - Current pool size: 92
+Customer C001 booked ticket: Ticket{ticketId: 19 eventId: Event101}. Current pool size: 91
+Vendor V001 waiting
+Customer C001 book ticket: Ticket{ticketId: 19 eventId: Event101} - Current pool size: 91
+Customer C001 booked ticket: Ticket{ticketId: 20 eventId: Event101}. Current pool size: 90
+Vendor V001 added 10 tickets. Current pool size: 100
+Customer C001 book ticket: Ticket{ticketId: 20 eventId: Event101} - Current pool size: 100
+Vendor V001 added tickets: [Ticket{ticketId: 111 eventId: Event101}, Ticket{ticketId: 112 eventId: Event101}, Ticket{ticketId: 113 eventId: Event101}, Ticket{ticketId: 114 eventId: Event101}, Ticket{ticketId: 115 eventId: Event101}, Ticket{ticketId: 116 eventId: Event101}, Ticket{ticketId: 117 eventId: Event101}, Ticket{ticketId: 118 eventId: Event101}, Ticket{ticketId: 119 eventId: Event101}, Ticket{ticketId: 120 eventId: Event101}] - Current pool size: 100
+Customer C001 has stop booking tickets.
+Vendor V001 has stopped.
